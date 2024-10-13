@@ -86,8 +86,8 @@ const Hero = () => {
             ))}
           </div>
         </div>
-        <div className="hidden lg:block">
-          <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-green-500 via-25% via-green-500/40 to-65% rounded-[60px] overflow-hidden">
+        <div className="lg:block">
+          <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-green-500 via-25% via-green-500/40 to-65% rounded-[40px] overflow-hidden">
             <img
               src="/images/Harsh_logo.png"
               width={656}
